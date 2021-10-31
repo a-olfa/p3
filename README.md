@@ -1,5 +1,4 @@
-# p3 : Concevez une application au service de la santé publique![image](https://user-images.githubusercontent.com/37446012/139603429-3d609cca-d988-40df-b678-3d442e214834.png)
-
+# p3 : Concevez une application au service de la santé publique
 
 ## Contexte :
 Appel à projet de santé publique pour des idées innovantes d’application
@@ -22,4 +21,5 @@ conception d’une application au service de l’alimentation en exploitant le d
 #### 4- Produits avec composition n’appartenant ni à B ni à C On Ignore l’impact  I 
 
 
+![image](https://user-images.githubusercontent.com/37446012/139603440-94536eee-af6b-4f55-85f1-c6c43c654e18.png)
 
